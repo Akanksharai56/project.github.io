@@ -1,0 +1,23 @@
+.one{
+background-color:orange;
+border-radius: 50px;
+width:200px;
+
+}
+.nav{
+    background-color:rgb(16, 16, 139) ;
+}
+.two{
+   text-align: center;
+   color:rgb(16, 16, 139);
+   padding-top: 20px;
+}
+.mysec{
+height:200px;
+width:100%;
+
+}
+
+.mysec1{
+    color:white;
+}
